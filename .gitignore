@@ -1,0 +1,9 @@
+checkpoints/
+datasets/
+notebooks/
+runs/
+util/output
+**/__pycache__
+**/*.DS_Store
+.vscode
+**/*.zip
